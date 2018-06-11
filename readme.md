@@ -1,13 +1,11 @@
 # sprity-cli-rem
 
-[![NPM version](https://badge.fury.io/js/sprity-cli.svg)](http://badge.fury.io/js/sprity-cli) [![Dependencies](https://david-dm.org/sprity/sprity-cli.svg)](https://david-dm.org/sprity/sprity-cli)
-
 > Command line interface for [sprity](https://npmjs.org/package/sprity)
 
 ## Install
 
 ```sh
-npm install sprity-cli -g
+npm install sprity-cli-rem -g
 ```
 
 ## Usage
