@@ -1,4 +1,4 @@
-# sprity-cli
+# sprity-cli-rem
 
 [![NPM version](https://badge.fury.io/js/sprity-cli.svg)](http://badge.fury.io/js/sprity-cli) [![Dependencies](https://david-dm.org/sprity/sprity-cli.svg)](https://david-dm.org/sprity/sprity-cli)
 
