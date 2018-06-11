@@ -1,6 +1,6 @@
 'use strict';
 
-var sprity = require('sprity');
+var sprity = require('sprity-rem');
 var log = require('../lib/log');
 var scmd = require('./sprity-command');
 
